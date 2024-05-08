@@ -48,7 +48,7 @@
          Login
        </button>
        <button type="button" class="btn btn-outline-dark shadow-none" data-bs-toggle="modal" data-bs-target="#RegisterModel">
-         Register
+         Registerghhjjjj
        </button>
       </div>
     </div>
